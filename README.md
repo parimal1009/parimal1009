@@ -37,7 +37,8 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
    </a>
    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Pandas_logo.svg" alt="pandas" width="40" height="40"/>
+      <img src="![image](https://github.com/parimal1009/parimal1009/assets/118711970/efd7a800-1e76-42fd-aedb-b8425a2a1d6a")
+>
    </a>
    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
