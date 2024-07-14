@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parimal1009&label=Profile%20views&color=0e75b6&style=flat" alt="parimal1009" /> </p>
 
 - 🎓 Second-year CS student at SIT Pune
-- 💻 Exploring full-stack development
+- 📊 Exploring data science and machine learning
 - 🌐 Turning ideas into code
 - 📚 Learning and growing every day
 - 📫 How to reach me - **message me on [Linkedin](https://www.linkedin.com/in/parimal-kulkarni-343877282/)**
@@ -24,27 +24,25 @@
    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
    </a>
-   <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="40"/>
    </a>
-   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-   </a>
-   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-   </a>
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-   </a>
-   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="![image](https://github.com/parimal1009/parimal1009/assets/118711970/efd7a800-1e76-42fd-aedb-b8425a2a1d6a")
->
+   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+      <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
    </a>
    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
    </a>
+   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+   </a>
+   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+   </a>
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+   </a>
 </p>
-
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parimal1009&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Parimal's github stats" /></a> | <a href="https://github.com/parimal1009/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parimal1009&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
