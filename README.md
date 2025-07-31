@@ -11,7 +11,7 @@
 - 📊 Exploring data science and machine learning
 - 🌐 Turning ideas into code
 - 📚 Learning and growing every day
-- 📫 How to reach me - **message me on [LinkedIn](https://www.linkedin.com/in/parimal-kulkarni-343877282/)**
+- 📫 How to reach me - **message me on [LinkedIn](https://www.linkedin.com/in/parimal-kulkarni-2a9072375/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
